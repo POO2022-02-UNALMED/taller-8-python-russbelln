@@ -5,12 +5,12 @@ class Deportista:
     #getters
     def getDeporte(self):
         return self._deporte
-    def getAnosPracticando(self):
+    def getAñosPracticando(self):
         return self._anosPracticando
     
     #setters
     def setDeporte(self, deporte):
         self._deporte=deporte
-    def setAnosPracticando(self, anosPracticando):
+    def setAñosPracticando(self, anosPracticando):
         self._anosPracticando=anosPracticando
     
